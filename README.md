@@ -4,8 +4,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076455139798)
 
 📫 Como entrar em contato comigo: :point_right:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danpereira3009@gmail.com)
-[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](21984160620)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] - danpereira3009@gmail.com
+[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)] - 21984160620
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danpereira3009&show_icons=true&theme=dark)
 
