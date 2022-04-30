@@ -25,7 +25,7 @@
 - :book: Escolas que faço parte
 
 <div style="display: inline_block">
-  :paintbrush: **Labenu**
+  :paintbrush: __Labenu__
   :paintbrush: **Alura**
   :paintbrush: **Udemy**
   :paintbrush: **Dio**
