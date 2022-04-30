@@ -25,8 +25,8 @@
 - 🌱 Escolas que faço parte
 
 <div style="display: inline_block">
-  <img text-align="center" alt="Labenu" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img text-align="center" alt="Alura" src="https://user-images.githubusercontent.com/90615589/166117520-16598198-3f52-4c95-a07f-90c1220688e3.png" />
+  <img text-align="center" alt="Labenu" src="https://drive.google.com/file/d/1BYt4m0zg_WsSiVmjBk9jPT4XAx_cNGad/view?usp=sharing" />
+  <img text-align="center" alt="Alura" src="https://drive.google.com/file/d/1xkIypzPcD5hL6m0_RiqKGPkfRwXk1kPt/view?usp=sharing" />
   <img text-align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   <img text-align="center" alt="Dio" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
