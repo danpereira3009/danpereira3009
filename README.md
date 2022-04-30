@@ -22,11 +22,11 @@
   <img text-align="center" alt="mysql" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
 </div><br/>
 
-- 🌱 Escolas que faço parte
+- :book: Escolas que faço parte
 
 <div style="display: inline_block">
-  Labenu
-  Alura
-  Udemy
-  Dio
+  :paintbrush: <p style="font-color: blue"> Labenu </p>
+  :paintbrush: Alura
+  :paintbrush: Udemy
+  :paintbrush: Dio
 </div><br/>
