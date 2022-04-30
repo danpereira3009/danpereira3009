@@ -25,8 +25,8 @@
 - 🌱 Escolas que faço parte
 
 <div style="display: inline_block">
-  <img text-align="center" alt="Labenu" />
-  <img text-align="center" alt="Alura" />
+  <img text-align="center" Labenu />
+  <img text-align="center" Alura />
   <img text-align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   <img text-align="center" alt="Dio" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
