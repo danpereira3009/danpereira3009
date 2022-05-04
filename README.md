@@ -25,4 +25,5 @@
   :paintbrush: Alura
   :paintbrush: Udemy
   :paintbrush: Dio
+  :paintbrush: Faculdade Anhembi Morumbi
 </div><br/>
