@@ -30,3 +30,7 @@
   :paintbrush: Dio
   :paintbrush: Faculdade Anhembi Morumbi
 </div><br/>
+
+<div>
+  https://github-readme-stats.vercel.app/api/top-langs/?username={danpereira3009}&theme=blue-green
+</div>
