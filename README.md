@@ -24,9 +24,7 @@
 :school: Escolas que faço parte:
 
 <div style="display: inline_block">
-  :paintbrush: Labenu
   :paintbrush: Alura
   :paintbrush: Udemy
-  :paintbrush: Dio
   :paintbrush: Faculdade Anhembi Morumbi
 </div><br/>
